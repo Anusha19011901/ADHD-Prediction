@@ -9,3 +9,4 @@ accuracy in detecting ADHD. Additionally, the study will explore the potential o
 screening tool for ADHD in clinical settings. Ultimately, this project aims to leverage AI and eye
 gaze tracking technology to create a powerful new tool for ADHD diagnosis.
 
+<img width="692" alt="image" src="https://github.com/Anusha19011901/ADHD-Prediction/assets/75386520/d7d114ad-3921-4f0d-bede-695acc94a09d">
