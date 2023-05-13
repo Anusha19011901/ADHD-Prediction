@@ -10,3 +10,5 @@ screening tool for ADHD in clinical settings. Ultimately, this project aims to l
 gaze tracking technology to create a powerful new tool for ADHD diagnosis.
 
 <img width="692" alt="image" src="https://github.com/Anusha19011901/ADHD-Prediction/assets/75386520/d7d114ad-3921-4f0d-bede-695acc94a09d">
+
+<img width="692" alt="image" src="https://github.com/Anusha19011901/ADHD-Prediction/assets/75386520/587ac0c5-4210-419f-bc30-713f0bc35b83">
